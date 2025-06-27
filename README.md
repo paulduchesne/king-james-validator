@@ -1,8 +1,7 @@
 # King James Validator
 
-An interesting artistic constraint occured to me a short time ago, to use only words found in the King James translation of the Bible. 
+An interesting artistic constraint which occured to me a while ago, was to reuse only words which could be found in the King James translation of the Bible. This script validates a provided text, reporting on overlap of both total and unique words.  
 
-This validator produces a short report containing a percentage score of total words which overlap and a percentage of unique words which overlap, against a source text.
 
 **Example**
 
